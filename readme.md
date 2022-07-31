@@ -1,9 +1,11 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: nathasate chuawerachon
+- ⚡ Student id: 63362143
 - 🔭 I'm currently studying on Faculty of Engineering.
-
+- ⚡ I want to be a software engineer.
+- 🔭 I have python programing skill
+- ⚡ My favorite subject is English
 ## Developer Tech
 
 ### Frameworks 
